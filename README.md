@@ -1,4 +1,4 @@
-# cnwN9KSr
+# Color Scheme Generator
 
 Quick start:
 
